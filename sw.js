@@ -1,6 +1,6 @@
 /* Pickleball Bracket service worker: keeps the app on the phone so it opens without internet.
    The page itself is fetched fresh when online (so updates land) and served from the cache when offline. */
-var CACHE = 'pickleball-d911a09287';
+var CACHE = 'pickleball-5f648d105f';
 var ASSETS = [
   "./",
   "./index.html",

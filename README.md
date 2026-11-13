@@ -50,7 +50,7 @@ Open it once with signal so it saves itself to the phone. After that it opens wi
 
 - **PIN:** the app opens to a PIN screen. Enter the scorekeeper PIN once on each phone; after that it opens straight to the bracket, even offline. **Setup → Lock app** makes that phone ask for the PIN again.
 
-- **Setup tab:** event name, teams (4–10), courts, start time, total time, game format and playoff size. Tap **Build schedule**.
+- **Setup tab:** event name, teams (4 or more, no upper limit), courts (1–12), start time, total time, game format and playoff size. Tap **Build schedule**.
 - **Schedule tab:** each round's start time and court assignments. Enter scores as games finish. **Print schedule** gives a paper copy with blank score boxes.
 - **Standings tab:** live rankings with tiebreakers. **Share standings** sends a text version to a group text or post.
 - **Playoffs tab:** fills in automatically when pool play is done.
